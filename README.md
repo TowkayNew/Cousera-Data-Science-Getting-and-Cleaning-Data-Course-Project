@@ -8,12 +8,12 @@ Getting and Cleaning Data Course Project in Coursera
 
 ## Code Book ##
 First column "activityLabel" are the types of activities done by the subjects. Below are the types of activities:
-1.  WALKING
-2.  WALKING_UPSTAIRS
-3.  WALKING_DOWNSTAIRS
-4.  SITTING
-5.  STANDING
-6.  LAYING
+*  WALKING
+*  WALKING_UPSTAIRS
+*  WALKING_DOWNSTAIRS
+*  SITTING
+*  STANDING
+* LAYING
 
 Second column "subjectId" are the identification number of subject conducting the activities.
 
